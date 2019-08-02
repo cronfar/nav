@@ -1,8 +1,8 @@
 footer {
     background: #000;
     color: #fff;
-    height: 50px;
+    height: 100px;
     position: fixed;
     width: 100%;
-    top: calc(100hv - 50px);
+    bottom: 0;
 }
